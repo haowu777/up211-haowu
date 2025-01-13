@@ -1,5 +1,5 @@
 # up211-haowu
-Introduction
+# Introduction
 Hao Wu (haowu2002@g.ucla.edu)
 he/his
 first-year master's student 
